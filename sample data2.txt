@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"helper mod 1","desc":"Barvikha RP is a popular multiplayer role-playing game (RP) on the Criminal Russia Multiplayer (CRMP) platform. It is a highly immersive game that allows players to experience life as a criminal in Russia. ","photo":"https://iili.io/HvlgOS2.webp"},
+  {"title":"tips pack 2","desc":"The game takes place in the fictional city of Barvikha, which is located in the Moscow Oblast region of Russia.","photo":"https://iili.io/Hvlgk9S.jpg"},
+  {"title":"how to use this app 3","desc":"The fictional Russian city of Barvikha, which is situated in the Moscow Oblast region, serves as the setting for the game.","photo":"https://iili.io/Hvlg8N9.jpg"},
+  {"title":"advice mod 4","desc":"The game has a rich and complex storyline that is driven by the actions of the players themselves. Players can choose to join one of the various criminal organizations in the city,","photo":"https://iili.io/HvlgvA7.jpg"},
+  {"title":"helper pack 5","desc":"The game contains a deep and intricate storyline that is influenced by the player's choices. The option to join one of the many criminal organizations in the city is available to players.","photo":"https://iili.io/HvlgSte.jpg"},
+  {"title":"advance mod 6","desc":"The game contains a deep and intricate storyline that is influenced by the player's choices. The option to join one of the many criminal organizations in the city is available to players.","photo":"https://iili.io/HvlgPKx.jpg"},
+  {"title":"tips pack 7","desc":"or they can decide to work on their own. Players must advance through the ranks by completing missions and winning the respect of their superiors in order to advance in each organization, which has its own hierarchy and goals.","photo":"https://iili.io/Hvlggou.jpg"},
+  {"title":"how to use this app 8","desc":"One of the unique features of Barvikha RP is its focus on realism. The game features realistic driving mechanics, as well as an in-depth economy system that allows players to buy and sell goods and services.","photo":"https://iili.io/Hvlg4Pj.jpg"}
 
    ]
  
